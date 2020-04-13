@@ -54,3 +54,10 @@
 .txt{
     margin-bottom: 20px;
 }
+
+
+@media(max-width:991px){
+    .banner{
+        height: 15vh;
+    }
+}
